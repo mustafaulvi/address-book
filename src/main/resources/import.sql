@@ -1,0 +1,1 @@
+INSERT INTO "ADDRESS_BOOK" ("ID", "ADDRESS", "CREATED_AT", "EMAIL", "NAME", "NOTE", "SUR_NAME", "TELEPHONE", "UPDATED_AT", "WEBSITE")VALUES (1, 'test', '2022-08-30 00:16:18.219', 'test@test.de', 'Test', 'test', 'test', '012345', '2022-09-30 00:16:18.219', 'www.test.de');
